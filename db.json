@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "firstName": "Emiliano",
+      "lastName": "Tello",
+      "email": "321@321.com",
+      "password": "321",
+      "role": "ADMIN",
+      "token": "4355gfee33fef"
+    },
+    {
+      "id": "9",
+      "firstName": "Roberto",
+      "lastName": "Flor",
+      "email": "Eri2574@gmail.com",
+      "password": "123243",
+      "role": "USER",
+      "token": "sd33fsdsdsdgsdfgg34"
+    },
+    {
+      "id": "999",
+      "firstName": "RobertoOOOOO",
+      "lastName": "Prueba",
+      "email": "Eri12323442574@gmail.com",
+      "password": "123",
+      "role": "USER",
+      "token": "sd33fsdsdsdgsdfgg34"
+    },
+    {
+      "id": 666,
+      "name": "Julio",
+      "lastName": "Lz",
+      "email": "asd125@gmail.com",
+      "rol": "USER"
+    }
+  ],
+  "courses": [
+    {
+      "id": 2,
+      "name": "Ingles",
+      "createdAt": "2024-02-19T23:32:38.758Z"
+    },
+    {
+      "id": "3",
+      "name": "Matematica",
+      "createdAt": "2024-01-14T23:32:38.758Z"
+    },
+    {
+      "id": "4",
+      "name": "Ciencias Sociales",
+      "createdAt": "2024-04-23T23:32:38.758Z"
+    }
+  ],
+  "inscriptions": [
+    {
+      "id": "1",
+      "userId": "2",
+      "courseId": 2
+    },
+    {
+      "id": "2",
+      "userId": "3",
+      "courseId": 5
+    }
+    
+  ]
+}
